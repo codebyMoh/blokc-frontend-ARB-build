@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7637b255.css",
-    "main.js": "/static/js/main.b6a424c7.js",
+    "main.css": "/static/css/main.2a008cfe.css",
+    "main.js": "/static/js/main.a33cdcc6.js",
     "static/js/687.39e48f11.chunk.js": "/static/js/687.39e48f11.chunk.js",
     "static/js/126.78057126.chunk.js": "/static/js/126.78057126.chunk.js",
     "static/js/321.adb6f1b2.chunk.js": "/static/js/321.adb6f1b2.chunk.js",
@@ -11,7 +11,6 @@
     "static/media/mesh-grad-1.png": "/static/media/mesh-grad-1.cf76b23664aec5cf426d.png",
     "static/media/mesh-grad-2.png": "/static/media/mesh-grad-2.a57bca82577a31a11949.png",
     "static/media/usdcIcon.png": "/static/media/usdcIcon.c4477cfcf6565cacc68b.png",
-    "static/media/whitepaper.pdf": "/static/media/whitepaper.b4d99c264bb8962f906e.pdf",
     "static/media/overlay2.png": "/static/media/overlay2.1bb55ea4e30265cfed3e.png",
     "static/media/overlay1.png": "/static/media/overlay1.255d30d7bd63181e8a2e.png",
     "static/media/Fulllogo.png": "/static/media/Fulllogo.e56d6db01eef69dff77c.png",
@@ -24,8 +23,8 @@
     "static/media/medium.svg": "/static/media/medium.cae3011656cdeccb420b409f60dac160.svg",
     "static/media/depositearrow.svg": "/static/media/depositearrow.e2e79401a583c73e8d242d589a696db1.svg",
     "index.html": "/index.html",
-    "main.7637b255.css.map": "/static/css/main.7637b255.css.map",
-    "main.b6a424c7.js.map": "/static/js/main.b6a424c7.js.map",
+    "main.2a008cfe.css.map": "/static/css/main.2a008cfe.css.map",
+    "main.a33cdcc6.js.map": "/static/js/main.a33cdcc6.js.map",
     "687.39e48f11.chunk.js.map": "/static/js/687.39e48f11.chunk.js.map",
     "126.78057126.chunk.js.map": "/static/js/126.78057126.chunk.js.map",
     "321.adb6f1b2.chunk.js.map": "/static/js/321.adb6f1b2.chunk.js.map",
@@ -34,7 +33,7 @@
     "725.513ef8dc.chunk.js.map": "/static/js/725.513ef8dc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7637b255.css",
-    "static/js/main.b6a424c7.js"
+    "static/css/main.2a008cfe.css",
+    "static/js/main.a33cdcc6.js"
   ]
 }
