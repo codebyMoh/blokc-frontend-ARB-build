@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2a008cfe.css",
-    "main.js": "/static/js/main.a9b3406d.js",
+    "main.js": "/static/js/main.2799f6fe.js",
     "static/js/687.39e48f11.chunk.js": "/static/js/687.39e48f11.chunk.js",
     "static/js/126.78057126.chunk.js": "/static/js/126.78057126.chunk.js",
     "static/js/321.adb6f1b2.chunk.js": "/static/js/321.adb6f1b2.chunk.js",
@@ -16,7 +16,6 @@
     "static/media/Fulllogo.png": "/static/media/Fulllogo.e56d6db01eef69dff77c.png",
     "static/media/Blokc-logo.svg": "/static/media/Blokc-logo.e49356b9450828390c10504164c236ab.svg",
     "static/media/checked.png": "/static/media/checked.6f298cca57a5a8b36055.png",
-    "static/media/scan.svg": "/static/media/scan.1863da5124fcde0fb09e4c08c0285316.svg",
     "static/media/twitter.svg": "/static/media/twitter.485f38b0ef90b1d588c0c8f27a6d22d0.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.23d4e6ce09be1e84e64730ca72351b6c.svg",
     "static/media/telegram.svg": "/static/media/telegram.e427886acccfb4a66ac7d34aedf17c88.svg",
@@ -24,7 +23,7 @@
     "static/media/depositearrow.svg": "/static/media/depositearrow.e2e79401a583c73e8d242d589a696db1.svg",
     "index.html": "/index.html",
     "main.2a008cfe.css.map": "/static/css/main.2a008cfe.css.map",
-    "main.a9b3406d.js.map": "/static/js/main.a9b3406d.js.map",
+    "main.2799f6fe.js.map": "/static/js/main.2799f6fe.js.map",
     "687.39e48f11.chunk.js.map": "/static/js/687.39e48f11.chunk.js.map",
     "126.78057126.chunk.js.map": "/static/js/126.78057126.chunk.js.map",
     "321.adb6f1b2.chunk.js.map": "/static/js/321.adb6f1b2.chunk.js.map",
@@ -34,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.2a008cfe.css",
-    "static/js/main.a9b3406d.js"
+    "static/js/main.2799f6fe.js"
   ]
 }
