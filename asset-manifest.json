@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.436c946b.css",
-    "main.js": "/static/js/main.f296f15b.js",
+    "main.css": "/static/css/main.e81975b4.css",
+    "main.js": "/static/js/main.82446c75.js",
     "static/js/408.9c2922c5.chunk.js": "/static/js/408.9c2922c5.chunk.js",
     "static/js/240.387401f0.chunk.js": "/static/js/240.387401f0.chunk.js",
     "static/js/200.1f2ab68d.chunk.js": "/static/js/200.1f2ab68d.chunk.js",
@@ -10,21 +10,20 @@
     "static/js/368.01494037.chunk.js": "/static/js/368.01494037.chunk.js",
     "static/media/mesh-grad-1.png": "/static/media/mesh-grad-1.cf76b23664aec5cf426d.png",
     "static/media/mesh-grad-2.png": "/static/media/mesh-grad-2.a57bca82577a31a11949.png",
-    "static/media/arbitrum-arb-logo.png": "/static/media/arbitrum-arb-logo.b751f41f799396b16e3a.png",
     "static/media/usdcIcon.png": "/static/media/usdcIcon.c4477cfcf6565cacc68b.png",
     "static/media/overlay2.png": "/static/media/overlay2.1bb55ea4e30265cfed3e.png",
     "static/media/overlay1.png": "/static/media/overlay1.255d30d7bd63181e8a2e.png",
     "static/media/Fulllogo.png": "/static/media/Fulllogo.e56d6db01eef69dff77c.png",
-    "static/media/Blokc-logo.svg": "/static/media/Blokc-logo.e49356b9450828390c10504164c236ab.svg",
+    "static/media/Blokc-logo.svg": "/static/media/Blokc-logo.3e4d14ed168cf2f0f7b9c7e3fe6d2177.svg",
     "static/media/checked.png": "/static/media/checked.6f298cca57a5a8b36055.png",
-    "static/media/twitter.svg": "/static/media/twitter.485f38b0ef90b1d588c0c8f27a6d22d0.svg",
-    "static/media/linkedin.svg": "/static/media/linkedin.23d4e6ce09be1e84e64730ca72351b6c.svg",
-    "static/media/telegram.svg": "/static/media/telegram.e427886acccfb4a66ac7d34aedf17c88.svg",
-    "static/media/medium.svg": "/static/media/medium.cae3011656cdeccb420b409f60dac160.svg",
-    "static/media/depositearrow.svg": "/static/media/depositearrow.e2e79401a583c73e8d242d589a696db1.svg",
+    "static/media/twitter.svg": "/static/media/twitter.3fdaf1062157f64339eeb66962da7a79.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.9598fcdbeb03b25c66cada1058c56e8e.svg",
+    "static/media/telegram.svg": "/static/media/telegram.1cb1071a21c92309537dbf74c9f18afb.svg",
+    "static/media/medium.svg": "/static/media/medium.e45fa52c8622b1400736a156a2c728da.svg",
+    "static/media/depositearrow.svg": "/static/media/depositearrow.203ef5c91de982b32e31a764012ab35c.svg",
     "index.html": "/index.html",
-    "main.436c946b.css.map": "/static/css/main.436c946b.css.map",
-    "main.f296f15b.js.map": "/static/js/main.f296f15b.js.map",
+    "main.e81975b4.css.map": "/static/css/main.e81975b4.css.map",
+    "main.82446c75.js.map": "/static/js/main.82446c75.js.map",
     "408.9c2922c5.chunk.js.map": "/static/js/408.9c2922c5.chunk.js.map",
     "240.387401f0.chunk.js.map": "/static/js/240.387401f0.chunk.js.map",
     "200.1f2ab68d.chunk.js.map": "/static/js/200.1f2ab68d.chunk.js.map",
@@ -33,7 +32,7 @@
     "368.01494037.chunk.js.map": "/static/js/368.01494037.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.436c946b.css",
-    "static/js/main.f296f15b.js"
+    "static/css/main.e81975b4.css",
+    "static/js/main.82446c75.js"
   ]
 }
