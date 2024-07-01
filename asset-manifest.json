@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.436c946b.css",
-    "main.js": "/static/js/main.f2218245.js",
+    "main.js": "/static/js/main.cf4be76e.js",
     "static/js/408.9c2922c5.chunk.js": "/static/js/408.9c2922c5.chunk.js",
     "static/js/240.387401f0.chunk.js": "/static/js/240.387401f0.chunk.js",
     "static/js/200.1f2ab68d.chunk.js": "/static/js/200.1f2ab68d.chunk.js",
@@ -10,6 +10,7 @@
     "static/js/368.01494037.chunk.js": "/static/js/368.01494037.chunk.js",
     "static/media/mesh-grad-1.png": "/static/media/mesh-grad-1.cf76b23664aec5cf426d.png",
     "static/media/mesh-grad-2.png": "/static/media/mesh-grad-2.a57bca82577a31a11949.png",
+    "static/media/arbitrum-arb-logo.png": "/static/media/arbitrum-arb-logo.b751f41f799396b16e3a.png",
     "static/media/usdcIcon.png": "/static/media/usdcIcon.c4477cfcf6565cacc68b.png",
     "static/media/overlay2.png": "/static/media/overlay2.1bb55ea4e30265cfed3e.png",
     "static/media/overlay1.png": "/static/media/overlay1.255d30d7bd63181e8a2e.png",
@@ -23,7 +24,7 @@
     "static/media/depositearrow.svg": "/static/media/depositearrow.e2e79401a583c73e8d242d589a696db1.svg",
     "index.html": "/index.html",
     "main.436c946b.css.map": "/static/css/main.436c946b.css.map",
-    "main.f2218245.js.map": "/static/js/main.f2218245.js.map",
+    "main.cf4be76e.js.map": "/static/js/main.cf4be76e.js.map",
     "408.9c2922c5.chunk.js.map": "/static/js/408.9c2922c5.chunk.js.map",
     "240.387401f0.chunk.js.map": "/static/js/240.387401f0.chunk.js.map",
     "200.1f2ab68d.chunk.js.map": "/static/js/200.1f2ab68d.chunk.js.map",
@@ -33,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.436c946b.css",
-    "static/js/main.f2218245.js"
+    "static/js/main.cf4be76e.js"
   ]
 }
